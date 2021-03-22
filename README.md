@@ -1,7 +1,4 @@
 # helllo-world
 
-Hi humans!
 
-Hubot here, I like NOde.js and Coffeescript (that's what I'm made of!).
-I've had tacos on the moon and find them far superior to Earth tacos!
-
+快乐的李大胖新建的第一个数据仓库！
